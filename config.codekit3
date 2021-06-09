@@ -17,6 +17,14 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
+	"/dashboard/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dashboard/.gitattributes",
+		"oF": 0
+		},
 	"/deploy/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -404,7 +412,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 640184504.22365296,
-	"displayValue": "LauraDressel_Dashboard",
+	"displayValue": "LauraDressel_Dashboard_MotionGraphics",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-ron",
 	"iconImageWasSetByUser": 1

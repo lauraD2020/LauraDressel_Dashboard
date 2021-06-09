@@ -39,9 +39,9 @@ ready(() => {
 
     return tl;
   }
+
 gsap.set("#lightblue",{scale:1.1, transformOrigin:"center"});
 gsap.set("#darkblue",{scale:1.1, transformOrigin:"center"});
-
 
 
   function flashTL(){
@@ -100,7 +100,7 @@ gsap.set("#darkblue",{scale:1.1, transformOrigin:"center"});
     .to("#volume4", {fill:"#AECA2F", delay:.75},"volume")
     // .to("#ghostbusters", {alpha:0, duration:1})
 
-    // .to(MUSIC, {alpha:0, duration:2})
+  
   
     ;
 
@@ -131,10 +131,7 @@ gsap.set("#darkblue",{scale:1.1, transformOrigin:"center"});
      PERC_num.textContent=PERC.num;
    }
 
-  //  function musicHandler(){
-
-  //   MUSIC_num.textContent=MUSIC.num;
-  // }
+  
 
   //1. set initial properties
  init();
